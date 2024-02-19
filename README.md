@@ -1,7 +1,7 @@
 # Docker Project
 himanshu
 <br>This project is consist of two environments in docker.</br>
-# 1. MySql
+# 1. MySQL
 <br>Used to store the backend part of host website.</br>
 # 2. Wordpress
 <br>Main host website.</br>
